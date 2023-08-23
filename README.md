@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?
                                                                              
-- 👨‍💻 All of my projects are available at http://mirzokiroff.pythonanywhere.com
+- 👨‍💻 All of my projects are available at [http://mirzokiroff.pythonanywhere.com/](http://mirzokiroff.pythonanywhere.com/)
 
 - 📫 How to reach me **mirsidiqmirzokirov@gmail.com**
 
