@@ -10,27 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Connect with me:
 
-
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.mirzokiroff }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-  env:
-    # a github token is required to fetch the contribution calendar from github API
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<img src="https://camo.githubusercontent.com/9b7074dac1de6f44552593cb28399eb5ebb7b53cd85259759f57a36563ec579b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;">
