@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mirzokirov Mirsidiq</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+<h1 align="center">Hi 👋, I'm <big><strong>Mirzokirov Mirsidiq</strong></big></h1>
+<h3 align="center">A passionate backend developer from <strong>Uzbekistan</strong></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzokiroff&label=Profile%20views&color=0e75b6&style=flat" alt="mirzokiroff" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?
                                                                              
-- 👨‍💻 All of my projects are available at [http://mirzokiroff.pythonanywhere.com/](http://mirzokiroff.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at http://mirzokiroff.pythonanywhere.com
 
 - 📫 How to reach me **mirsidiqmirzokirov@gmail.com**
 
