@@ -9,11 +9,11 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9b7074dac1de6f44552593cb28399eb5ebb7b53cd85259759f57a36563ec579b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667"><img src="https://camo.githubusercontent.com/9b7074dac1de6f44552593cb28399eb5ebb7b53cd85259759f57a36563ec579b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;"></a></p>
                                                                              
-- 👨‍💻 All of my projects are available at [http://mirzokiroff.pythonanywhere.com/](http://mirzokiroff.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [<b>𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨</b>](http://mirzokiroff.pythonanywhere.com/)
 
-- 📫 How to reach me **mirsidiqmirzokirov@gmail.com**
+- 📫 How to reach me [**Email**](mailto:mirsidiqmirzokirov@gmail.com)
 
-- 📄 Know about my experiences [http://mirzokiroff.pythonanywhere.com/](http://mirzokiroff.pythonanywhere.com/)
+- 📄 Know about my experiences [<strong><big><b>𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨</b></big></strong>](http://mirzokiroff.pythonanywhere.com/)
 
 - ⚡ Amazing fact: **𝐭𝐡𝐞 𝐝𝐨𝐠 𝐛𝐚𝐫𝐤𝐬, 𝐭𝐡𝐞 𝐜𝐚𝐫𝐚𝐯𝐚𝐧 𝐩𝐚𝐬𝐬𝐞𝐬**
 
