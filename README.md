@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm <big><strong>Mirzokirov Mirsidiq</strong></big></h1>
 <h3 align="center">A passionate backend developer from <strong>Uzbekistan</strong></h3>
 
+<a href="https://wakatime.com/@9157a609-20e0-41ad-97ae-0fbbed98be94"><img src="https://wakatime.com/badge/user/9157a609-20e0-41ad-97ae-0fbbed98be94.svg" alt="Total time coded since Sep 18 2023" /></a>  <a align="left"> <img src="https://komarev.com/ghpvc/?username=mirzokiroff&label=Profile%20views&color=0e75b6&style=flat" alt="mirzokiroff" /> </a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzokiroff&label=Profile%20views&color=0e75b6&style=flat" alt="mirzokiroff" /> </p>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9b7074dac1de6f44552593cb28399eb5ebb7b53cd85259759f57a36563ec579b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667"><img src="https://camo.githubusercontent.com/9b7074dac1de6f44552593cb28399eb5ebb7b53cd85259759f57a36563ec579b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;"></a></p>
                                                                              
